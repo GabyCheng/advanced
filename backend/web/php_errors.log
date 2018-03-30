@@ -1,0 +1,4 @@
+[02-Nov-2017 09:54:00 Asia/Chongqing] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /usr/local/var/www/yii-dz/advanced/vendor/doctrine/cache/lib/Doctrine/Common/Cache/FileCache.php on line 220
+[02-Nov-2017 09:54:03 Asia/Chongqing] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /usr/local/var/www/yii-dz/advanced/vendor/doctrine/cache/lib/Doctrine/Common/Cache/FileCache.php on line 220
+[02-Nov-2017 09:54:23 Asia/Chongqing] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /usr/local/var/www/yii-dz/advanced/vendor/doctrine/cache/lib/Doctrine/Common/Cache/FileCache.php on line 220
+[02-Nov-2017 14:05:54 Asia/Chongqing] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /usr/local/var/www/yii-dz/advanced/vendor/doctrine/cache/lib/Doctrine/Common/Cache/FileCache.php on line 220
